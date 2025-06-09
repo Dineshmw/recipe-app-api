@@ -39,8 +39,8 @@ These instructions will help you set up the project on your local machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/recipe-api.git
-cd recipe-api
+git https://github.com/Dineshmw/recipe-app-api.git
+cd recipe-app-api
 ```
 
 ### Build and Run with Docker
@@ -99,8 +99,7 @@ make lint
 
 Once the server is running, access auto-generated API documentation:
 
-- Swagger UI: `http://localhost:8000/api/docs/swagger/`
-- Redoc: `http://localhost:8000/api/docs/redoc/`
+- Swagger UI: `http://localhost:8000/api/docs/`
 
 ---
 
